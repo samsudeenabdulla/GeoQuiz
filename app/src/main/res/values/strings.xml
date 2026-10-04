@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+
+    <string name="question_label">GEOGRAPHY QUESTION</string>
+    <string name="answer_label">Choose your answer</string>
+    <string name="tools_label">Quick tools</string>
+
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="next_button">Next Question</string>
+    <string name="start_again_button">Start Again</string>
+
+    <string name="share_button">Share</string>
+    <string name="phone_button">Phone</string>
+    <string name="camera_button">Camera</string>
+    <string name="gallery_button">Gallery</string>
+    <string name="contacts_button">Contacts</string>
+
+    <string name="correct_toast">Correct! Well done.</string>
+    <string name="incorrect_toast">Not quite. Try the next one!</string>
+    <string name="quiz_restarted">Quiz restarted.</string>
+    <string name="progress_format">Question %1$d of %2$d</string>
+
+    <string name="question_australia">Australia is a country.</string>
+    <string name="question_asia">Asia is the largest continent.</string>
+    <string name="question_pacific">The Pacific Ocean is the smallest ocean.</string>
+    <string name="question_everest">Mount Everest is the tallest mountain above sea level.</string>
+    <string name="question_egypt">Egypt is in South America.</string>
+
+    <string name="share_subject">Try GeoQuiz</string>
+    <string name="share_message">I am testing my geography knowledge with GeoQuiz!</string>
+    <string name="phone_number">1234567890</string>
+    <string name="selected_contact_format">Selected contact: %1$s</string>
+    <string name="photo_captured">Photo captured successfully.</string>
+    <string name="photo_selected">Photo selected from gallery.</string>
+    <string name="no_camera_app">No camera app is available.</string>
+    <string name="no_gallery_app">No gallery app is available.</string>
+    <string name="no_contacts_app">No contacts app is available.</string>
+    <string name="selected_image_description">Selected image</string>
+</resources>
